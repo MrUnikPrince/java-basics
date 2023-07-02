@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch func",
+            "request": "launch",
+            "mainClass": "func",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch insert",
+            "request": "launch",
+            "mainClass": "insert",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CsortedArr",
+            "request": "launch",
+            "mainClass": "recursion.CsortedArr",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciNum",
+            "request": "launch",
+            "mainClass": "recursion.fibonacciNum",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstOcc",
+            "request": "launch",
+            "mainClass": "recursion.firstOcc",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch optimizepower",
+            "request": "launch",
+            "mainClass": "recursion.optimizepower",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch printsumofNaturalNumber",
+            "request": "launch",
+            "mainClass": "recursion.printsumofNaturalNumber",
+            "projectName": "java I_67b6a35b"
+        },
+        {
+            "type": "java",
+            "name": "Launch rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "java I_67b6a35b"
+        }
+    ]
+}
